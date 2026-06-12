@@ -286,6 +286,16 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 ---
 
+## Future Enhancements
+
+- Browser extension for real-time phishing detection
+- Support for Outlook and Microsoft 365 accounts
+- Organization-wide email threat monitoring
+- Machine learning model fine-tuning based on user feedback
+- Exportable security reports and threat summaries
+
+---
+
 ## License
 
 This project is for educational and demonstration purposes.
